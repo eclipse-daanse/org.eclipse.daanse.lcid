@@ -37,5 +37,6 @@
   <modules>
     <module>api</module>
     <module>basic</module>
+    <module>cfg</module>
   </modules>
 </project>
