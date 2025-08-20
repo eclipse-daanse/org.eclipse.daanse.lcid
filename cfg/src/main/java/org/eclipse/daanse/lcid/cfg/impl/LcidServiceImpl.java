@@ -40,7 +40,7 @@ import org.slf4j.LoggerFactory;
  * is registered as a singleton-scoped OSGi service.
  * </p>
  *
- * <h1>Configuration</h1>
+ * <h2>Configuration</h2>
  * <p>
  * The service is configured through the following properties:
  * </p>
@@ -50,7 +50,7 @@ import org.slf4j.LoggerFactory;
  *   <li><strong>localeVariant</strong>: Locale variant (optional, default: "")</li>
  * </ul>
  *
- * <h3>Usage Example</h3>
+ * <h2>Usage Example</h2>
  * <pre>{@code
  * // Service will return the configured locale for any LCID input
  * Optional<Locale> locale = lcidService.lcidToLocale(Optional.of(1033));
