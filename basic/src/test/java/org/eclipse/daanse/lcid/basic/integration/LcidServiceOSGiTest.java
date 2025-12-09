@@ -11,7 +11,7 @@
  *   SmartCity Jena, Stefan Bischof - initial
  *
  */
-package org.eclipse.daanse.lcid.basic;
+package org.eclipse.daanse.lcid.basic.integration;
 
 import java.util.Locale;
 import java.util.Optional;
